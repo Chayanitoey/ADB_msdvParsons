@@ -1,0 +1,67 @@
+{
+   "Taiwan": [
+      {
+         "Index": 0,
+         "primary_fuel": "Coal",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "100338.57999999999"
+      },
+      {
+         "Index": 1,
+         "primary_fuel": "Gas",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Index": 2,
+         "primary_fuel": "Hydro",
+         "estimated_generation_gwh_2013": "11774.72",
+         "estimated_generation_gwh_2014": "15981.65",
+         "estimated_generation_gwh_2015": 15973.47,
+         "estimated_generation_gwh_2016": 12044.88,
+         "estimated_generation_gwh_2017": "12250.289999999999"
+      },
+      {
+         "Index": 3,
+         "primary_fuel": "Nuclear",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "22445.989999999998"
+      },
+      {
+         "Index": 4,
+         "primary_fuel": "Oil",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "4264.88"
+      },
+      {
+         "Index": 5,
+         "primary_fuel": "Solar",
+         "estimated_generation_gwh_2013": "217.69",
+         "estimated_generation_gwh_2014": "217.39000000000001",
+         "estimated_generation_gwh_2015": 243.53,
+         "estimated_generation_gwh_2016": 213.89,
+         "estimated_generation_gwh_2017": "219.3"
+      },
+      {
+         "Index": 6,
+         "primary_fuel": "Wind",
+         "estimated_generation_gwh_2013": "456.96999999999997",
+         "estimated_generation_gwh_2014": "378.99",
+         "estimated_generation_gwh_2015": 374.44,
+         "estimated_generation_gwh_2016": 387.72,
+         "estimated_generation_gwh_2017": "467.14"
+      }
+   ]
+}

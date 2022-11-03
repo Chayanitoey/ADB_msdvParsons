@@ -1,7 +1,7 @@
 {
    "Taiwan": [
       {
-         "Index": 0,
+         "Angle": 0,
          "primary_fuel": "Coal",
          "estimated_generation_gwh_2013": "0.0",
          "estimated_generation_gwh_2014": "0.0",
@@ -10,7 +10,7 @@
          "estimated_generation_gwh_2017": "100338.57999999999"
       },
       {
-         "Index": 1,
+         "Angle": 24,
          "primary_fuel": "Gas",
          "estimated_generation_gwh_2013": "0.0",
          "estimated_generation_gwh_2014": "0.0",
@@ -19,7 +19,7 @@
          "estimated_generation_gwh_2017": "0.0"
       },
       {
-         "Index": 2,
+         "Angle": 48,
          "primary_fuel": "Hydro",
          "estimated_generation_gwh_2013": "11774.72",
          "estimated_generation_gwh_2014": "15981.65",
@@ -28,7 +28,7 @@
          "estimated_generation_gwh_2017": "12250.289999999999"
       },
       {
-         "Index": 3,
+         "Angle": 72,
          "primary_fuel": "Nuclear",
          "estimated_generation_gwh_2013": "0.0",
          "estimated_generation_gwh_2014": "0.0",
@@ -37,7 +37,7 @@
          "estimated_generation_gwh_2017": "22445.989999999998"
       },
       {
-         "Index": 4,
+         "Angle": 96,
          "primary_fuel": "Oil",
          "estimated_generation_gwh_2013": "0.0",
          "estimated_generation_gwh_2014": "0.0",
@@ -46,7 +46,7 @@
          "estimated_generation_gwh_2017": "4264.88"
       },
       {
-         "Index": 5,
+         "Angle": 120,
          "primary_fuel": "Solar",
          "estimated_generation_gwh_2013": "217.69",
          "estimated_generation_gwh_2014": "217.39000000000001",
@@ -55,13 +55,85 @@
          "estimated_generation_gwh_2017": "219.3"
       },
       {
-         "Index": 6,
+         "Angle": 144,
          "primary_fuel": "Wind",
          "estimated_generation_gwh_2013": "456.96999999999997",
          "estimated_generation_gwh_2014": "378.99",
          "estimated_generation_gwh_2015": 374.44,
          "estimated_generation_gwh_2016": 387.72,
          "estimated_generation_gwh_2017": "467.14"
+      },
+      {
+         "Angle": 168,
+         "primary_fuel": "Waste",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Angle": 192,
+         "primary_fuel": "Wave and Tidal",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Angle": 216,
+         "primary_fuel": "Petcoke",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Angle": 240,
+         "primary_fuel": "Geothermal",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Angle": 264,
+         "primary_fuel": "Storage",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Angle": 288,
+         "primary_fuel": "Cogeneration",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Angle": 312,
+         "primary_fuel": "Biomass",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
+      },
+      {
+         "Angle": 336,
+         "primary_fuel": "Other",
+         "estimated_generation_gwh_2013": "0.0",
+         "estimated_generation_gwh_2014": "0.0",
+         "estimated_generation_gwh_2015": 0,
+         "estimated_generation_gwh_2016": 0,
+         "estimated_generation_gwh_2017": "0.0"
       }
    ]
 }
